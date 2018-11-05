@@ -1,0 +1,10 @@
+{
+  "name": "commonjs-want",
+  "version": "0.0.1",
+  "description": "require compatible dependency injection",
+  "author": "liang.jr@foxmail.com",
+  "license": "MIT",
+  "dependencies": {
+    
+  }
+}
